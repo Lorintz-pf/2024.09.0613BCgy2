@@ -1,3 +1,3 @@
-function Addfv(num1, num2, num3) {
-    return num1-num2*num3;
+function util (num1, num2, num3) {
+    return num1 +" " +num2 +" " +num3;
 }
